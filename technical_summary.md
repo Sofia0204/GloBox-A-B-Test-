@@ -171,7 +171,7 @@ The novelty effect was evaluated by splitting the entire duration of the A/B tes
 <div style="text-align: center;">
   <figure>
     <img src="images/novelty.png" alt="Image 1" width="290" height="300">
-    <figcaption>Figure 2: Difference between the test and control group in terms of the average amount spent per user ($) and conversion rate (%) over the test duration.</figcaption>
+    <figcaption>Figure 5: Difference between the test and control group in terms of the average amount spent per user ($) and conversion rate (%) over the test duration.</figcaption>
   </figure>
 </div>
 
